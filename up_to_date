@@ -1,1 +1,2 @@
 echo My first readme updated
+git pull origin main
